@@ -2,9 +2,9 @@
 <h1>RW-HPS Project</h1>
 
 ----
-![](https://img.shields.io/github/stars/deng-rui/RW-HPS.svg)
-![](https://github.com/deng-rui/RW-HPS/actions/workflows/gradle.yml/badge.svg?branch=master)
-![](https://jitpack.io/v/deng-rui/RW-HPS.svg)
+![](https://img.shields.io/github/stars/RW-HPS/RW-HPS.svg)
+![](https://github.com/RW-HPS/RW-HPS/actions/workflows/gradle.yml/badge.svg?branch=master)
+![](https://jitpack.io/v/RW-HPS/RW-HPS.svg)
 ![](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRW-HPS%2FRW-HPS.svg?type=shield)
 
 [English version / 英文介绍](README.md) **or** [Chinese version / 中文介绍](README-CN.md)  
@@ -34,7 +34,7 @@ _**个人项目, 仅供学习**_
 
 - 若引用 RW-HPS 发布的软件包而不修改 RW-HPS，则衍生项目需在描述的任意部位提及使用 RW-HPS。
 - 若修改 RW-HPS 源代码再发布，**或参考 RW-HPS 内部实现发布另一个项目**，则衍生项目必须在**文章首部**或 'RW-HPS' 相关内容**首次出现**的位置*
-  *明确声明**来源于本仓库 (`https://github.com/deng-rui/RW-HPS`) 不得扭曲或隐藏免费且开源的事实。
+  *明确声明**来源于本仓库 (`https://github.com/RW-HPS/RW-HPS`) 不得扭曲或隐藏免费且开源的事实。
 
 ### 不会支持的游戏协议
 
@@ -94,7 +94,7 @@ RW-HPS是AGPL v3授权的开放源码项目，完全免费使用。然而，如�
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/deng-rui/RW-HPS.svg)](https://starchart.cc/deng-rui/RW-HPS)
+[![Stargazers over time](https://starchart.cc/RW-HPS/RW-HPS.svg)](https://starchart.cc/RW-HPS/RW-HPS)
 
 ## 许可证
 
@@ -123,7 +123,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 <details>
-  <summary><a href="https://github.com/deng-rui/RW-HPS/blob/master/Server/src/main/resources/eula/China.md">EULA</a></summary>
+  <summary><a href="https://github.com/RW-HPS/RW-HPS/blob/master/Server/src/main/resources/eula/China.md">EULA</a></summary>
 
 ```
 版权所有©2022 Dr <RW-HPS@der.kim>
