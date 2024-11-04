@@ -28,7 +28,7 @@ jobs:
           ./gradlew jar
 
       - name: Upload Server-All.jar 2 Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: Server-All-JDK${{ matrix.jdk }}
           path: ./Server-All/build/libs/*.jar
