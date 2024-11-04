@@ -1,7 +1,8 @@
 <div align="center">
-<h1>RW-HPS Project</h1>
+<h1>RW-HPS Project Unofficial</h1>
 
-----
+This is an unofficial repository. Due to the original repository being deleted, this is a backup.
+
 ![](https://img.shields.io/github/stars/RW-HPS/RW-HPS.svg)
 ![](https://github.com/RW-HPS/RW-HPS/actions/workflows/gradle.yml/badge.svg?branch=master)
 ![](https://jitpack.io/v/RW-HPS/RW-HPS.svg)
